@@ -19,3 +19,4 @@ Collection of cards about programming and technology in general.
 <br>
 <br>
 </a><img src="amálgama.jpeg" min-width="390px" max-width="390px" width="390px" align="center"> 
+</a><img src="resistance.jpeg" min-width="390px" max-width="390px" width="390px" align="center"> 
