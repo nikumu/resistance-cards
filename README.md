@@ -28,5 +28,15 @@ Collection of cards about programming and technology in general.
 <br>
 </a><img src="noot noot.jpeg" min-width="390px" max-width="390px" width="390px" align="center"> 
 </a><img src="SICP, O INVOCADOR DE BUGS.jpeg" min-width="390px" max-width="390px" width="390px" align="center"> 
-
+<br>
+<br>
+</a><img src="ECLIPSE.jpeg" min-width="390px" max-width="390px" width="390px" align="center"> 
+</a><img src="EMACS.jpeg" min-width="390px" max-width="390px" width="390px" align="center"> <br>
+<br>
+<br>
+</a><img src="LINGUAGEM C.jpeg" min-width="390px" max-width="390px" width="390px" align="center"> 
+</a><img src="teclado mecânico.jpeg" min-width="390px" max-width="390px" width="390px" align="center"> <br>
+<br>
+<br>
+</a><img src="wakatime.jpeg" min-width="390px" max-width="390px" width="390px" align="center"> 
 
