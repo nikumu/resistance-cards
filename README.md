@@ -39,4 +39,13 @@ Collection of cards about programming and technology in general.
 <br>
 <br>
 </a><img src="wakatime.jpeg" min-width="390px" max-width="390px" width="390px" align="center"> 
+</a><img src="clojure.jpeg" min-width="390px" max-width="390px" width="390px" align="center"> 
+<br>
+<br>
+</a><img src="DEBIAN.jpeg" min-width="390px" max-width="390px" width="390px" align="center"> 
+</a><img src="mago dos parênteses.jpeg" min-width="390px" max-width="390px" width="390px" align="center"> 
+<br>
+<br>
+</a><img src="radiohead.jpeg" min-width="390px" max-width="390px" width="390px" align="center"> 
+</a><img src="tailwind.jpeg" min-width="390px" max-width="390px" width="390px" align="center"> 
 
